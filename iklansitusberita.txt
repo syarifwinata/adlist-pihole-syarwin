@@ -1,0 +1,3 @@
+# Title : Untuk blokir gambar dari situs berita yang mengganggu/terlalu ramai
+
+0.0.0.0 newrevive.detik.com
